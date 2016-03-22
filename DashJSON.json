@@ -1,0 +1,13 @@
+
+{
+"ManageRoute":["Add New Route","View/EditRoute"],
+
+"ManageBus":["AddNewBusschedeule","ViewBusShedeule","EditBusShedeule"],
+
+"BusTicketInfo":["EditTicketInfo"],
+
+"Dashboard":["TotalBus","TotalSeat","TotalSold","Pending"]
+
+}
+
+
